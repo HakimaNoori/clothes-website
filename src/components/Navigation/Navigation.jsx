@@ -6,9 +6,9 @@ const SearchBar = () => {
   return (
     <div className="pt-8">
       <div className="container">
-        <div className="flex items-center justify-between bg-white">
+        <div className="flex items-center justify-between">
           <div className="relative flex gap-10">
-            <h1 className="text-xl font-bold">ECOMMERCE</h1>
+            <h1 className="text-xl font-bold sm:visible">ECOMMERCE</h1>
             <div className="flex justify-between relative w-full">
               <input
                 type="text"

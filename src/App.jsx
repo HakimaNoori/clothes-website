@@ -1,8 +1,8 @@
 import React from 'react';
 import Navbar from './components/Navbar/Navbar';
-import Navigation from "./components/Navigation/Navigation"
+import Navigation from "./components/Navigation/Navigation";
 import Hero from './components/Hero/Hero';
-import Props from './components/props/Prop';
+import Trending from './components/Trending/Trending';
 
 const App = () => {
   return (
@@ -11,7 +11,7 @@ const App = () => {
         <Navbar />
         <Navigation />
         <Hero />
-        <Props />
+        <Trending/>
       </div>
     </>
   );
