@@ -3,7 +3,7 @@ import Image2 from "../../assets/image-11.png";
 import Image3 from "../../assets/image-14.png";
 import Image4 from "../../assets/image-15.png";
 import Image5 from "../../assets/image-12.png";
-import Image6 from "../../assets/image-13.png";
+// import Image6 from "../../assets/image-13.png";
 import { CiHeart } from "react-icons/ci";
 
 const Trending = () => {
